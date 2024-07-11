@@ -4,7 +4,7 @@
 <h3 align="center">Backend Developer | Spring Boot | Flutter | Kotlin App Developer | Problem Solver</h3>
 <br>
 
-<img align="right" alt ="coding" width ="400" src = "https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
+<img align="right" alt ="coding" width ="350" height="250" src = "https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 
 - 👨‍💻 All of my projects are available at [https://github.com/RiteshBakare](https://github.com/RiteshBakare)
 
