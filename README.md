@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!+👋🏻;I+am+Ritesh!+🚀&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
-<h3 align="center">Backend Developer | Spring Boot | Flutter | Android Developer | Problem Solver | Java Developer</h3>
+<h3 align="center">Senior Software Engineer @ Zensar | Full-Stack + Agentic AI Engineer | LLMs • LangChain • LangGraph • ADK | React • Angular • Spring Boot • .NET </h3>
 <br>
 
 <img align="right" alt ="coding" width ="320" height="250" src = "https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
